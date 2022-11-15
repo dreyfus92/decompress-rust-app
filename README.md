@@ -2,4 +2,4 @@
 
 <p id="description">Small project to decompress files using the zip crate methods.</p>
 
-![](intro.gif)
+![](decompress.gif)
